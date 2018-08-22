@@ -162,7 +162,8 @@ ul {
 }
 
 img {
-	padding: 50px;
+	padding: 0px;
+	margin-bottom: 5%;
 }
 
 span {

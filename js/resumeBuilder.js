@@ -75,6 +75,13 @@ var work = {
 		"dates": "2016 - in progress",
 		"description": "A youtube channel for some of my videos.",
 		"url": "https://www.youtube.com/channel/UC7shggF3LVgZckXCmFltB6Q"
+	}, {
+		"employer": "Wadi Makkah",
+		"title": "Summer Intern",
+		"location": "Wadi Makkah",
+		"dates": "2018",
+		"description": "Filmmaking track training which was a course that covered the basics of filmmaking from pre-production, production until post-production, and ended with the application of what we learned on a documentary and an advertisement.",
+		"url": "wadimakkah.com"
 	}]
 };
 
