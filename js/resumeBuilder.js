@@ -14,17 +14,17 @@ changeCSS();
 //Bio object
 var bio = {
 	"name": "Fatima Falath",
-	"role": "   Video Editor",
+	"role": "   Video Editor / Front-End Web Developer",
 	"contacts": {
 		"mobile": "-",
 		"email": "ffalath22@gmail.com",
 		"youtube": "FatimaF | عشوائية فاطمة",
 		"github": "@Fatima22x",
-		"twitter": "@Fatima22_x",
+		"twitter": "@Fatima_22x",
 		"location": "Saudi Arabia"
 	},
 	"welcomeMessage": "Welcome to my page. ",
-	"skills": ["Editing videos", "HTML/CSS", "Javascript", "Java", "Writing poetry", "Excessively sleeping"],
+	"skills": ["Adobe Premiere Pro","Final Cut Pro X", "HTML/CSS", "Javascript", "Java", "Writing poetry", "Excessively sleeping"],
 	"biopic": "images/profilepic.jpg"
 };
 
@@ -128,7 +128,21 @@ var projects = {
 			"description": "A video commemmerating the end of the holy month, Ramadan.",
 			"images": ["images/Project2.png"],
 			"url": "https://www.youtube.com/watch?v=LSbo3PZQgjY"
-		}
+		},
+		{
+			"title": "My Smart Remote // ريموتي",
+			"dates": "9 August 2018",
+			"description": "A documentary about the start-up My Smart Remote.",
+			"images": ["-"],
+			"url": "-"
+		},
+		{
+				"title": "على خطك",
+				"dates": "Ongoing",
+				"description": "Ad about start-up company.",
+				"images": ["-"],
+				"url": "-"
+			}
 	]
 };
 

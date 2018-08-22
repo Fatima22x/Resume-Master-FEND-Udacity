@@ -103,6 +103,7 @@ var map;    // declares a global map variable
 Start here! initializeMap() is called when page is loaded.
 */
 function initializeMap() {
+  // var styledMapType = new google.maps.StyledMapType();
 
   var locations;
 
