@@ -23,7 +23,7 @@ var bio = {
 		"twitter": "@Fatima_22x",
 		"location": "Saudi Arabia"
 	},
-	"welcomeMessage": "Welcome to my page. ",
+	"welcomeMessage": "Welcome to my page. I developed it myself ;)",
 	"skills": ["Adobe Premiere Pro","Final Cut Pro X", "HTML/CSS", "Javascript", "Java", "Writing poetry", "Excessively sleeping"],
 	"biopic": "images/profilepic.jpg"
 };
